@@ -1,6 +1,6 @@
 [submodule "api"]
 	path = api
-	url = https://github.com/lyft/api
+	url = https://github.com/lyft/bitdriftapi
 	shallow = true
 [submodule "thirdparty/flatbuffers"]
 	path = thirdparty/flatbuffers
