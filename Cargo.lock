@@ -323,7 +323,7 @@ dependencies = [
  "log",
  "mockall",
  "parking_lot",
- "protobuf 4.0.0-alpha.0",
+ "protobuf 4.0.0-alpha.0 (git+https://github.com/lyft/rust-protobuf.git?branch=patch-stack)",
  "tempfile",
  "thiserror 2.0.17",
  "time",
@@ -483,7 +483,7 @@ dependencies = [
  "log",
  "mockall",
  "parking_lot",
- "protobuf 4.0.0-alpha.0",
+ "protobuf 4.0.0-alpha.0 (git+https://github.com/lyft/rust-protobuf.git?branch=patch-stack)",
  "tempfile",
  "thiserror 2.0.17",
  "time",
@@ -520,7 +520,7 @@ dependencies = [
  "itertools 0.14.0",
  "log",
  "parking_lot",
- "protobuf 4.0.0-alpha.0",
+ "protobuf 4.0.0-alpha.0 (git+https://github.com/lyft/rust-protobuf.git?branch=patch-stack)",
  "tempfile",
  "time",
  "tokio",
@@ -677,7 +677,7 @@ dependencies = [
  "mockall",
  "parking_lot",
  "prometheus",
- "protobuf 4.0.0-alpha.0",
+ "protobuf 4.0.0-alpha.0 (git+https://github.com/lyft/rust-protobuf.git?branch=patch-stack)",
  "protobuf-codegen",
  "reqwest",
  "serde",
@@ -704,7 +704,7 @@ dependencies = [
  "ctor",
  "flate2",
  "log",
- "protobuf 4.0.0-alpha.0",
+ "protobuf 4.0.0-alpha.0 (git+https://github.com/lyft/rust-protobuf.git?branch=patch-stack)",
  "rstest",
  "thiserror 2.0.17",
 ]
@@ -764,7 +764,7 @@ dependencies = [
  "log",
  "parking_lot",
  "pretty_assertions",
- "protobuf 4.0.0-alpha.0",
+ "protobuf 4.0.0-alpha.0 (git+https://github.com/lyft/rust-protobuf.git?branch=patch-stack)",
  "time",
  "tokio",
 ]
@@ -822,7 +822,7 @@ dependencies = [
  "itertools 0.14.0",
  "matches",
  "pretty_assertions",
- "protobuf 4.0.0-alpha.0",
+ "protobuf 4.0.0-alpha.0 (git+https://github.com/lyft/rust-protobuf.git?branch=patch-stack)",
  "regex",
  "tempfile",
  "time",
@@ -852,7 +852,7 @@ dependencies = [
  "bd-workspace-hack",
  "flate2",
  "ordered-float",
- "protobuf 4.0.0-alpha.0",
+ "protobuf 4.0.0-alpha.0 (git+https://github.com/lyft/rust-protobuf.git?branch=patch-stack)",
  "time",
 ]
 
@@ -911,7 +911,7 @@ dependencies = [
  "notify",
  "parking_lot",
  "pretty_assertions",
- "protobuf 4.0.0-alpha.0",
+ "protobuf 4.0.0-alpha.0 (git+https://github.com/lyft/rust-protobuf.git?branch=patch-stack)",
  "tempfile",
  "thiserror 2.0.17",
  "time",
@@ -980,7 +980,7 @@ dependencies = [
  "bd-workspace-hack",
  "log",
  "matches",
- "protobuf 4.0.0-alpha.0",
+ "protobuf 4.0.0-alpha.0 (git+https://github.com/lyft/rust-protobuf.git?branch=patch-stack)",
  "protobuf-codegen",
  "thiserror 2.0.17",
  "time",
@@ -1005,7 +1005,7 @@ dependencies = [
  "flatbuffers",
  "flatc-rust",
  "matches",
- "protobuf 4.0.0-alpha.0",
+ "protobuf 4.0.0-alpha.0 (git+https://github.com/lyft/rust-protobuf.git?branch=patch-stack)",
  "protobuf-codegen",
 ]
 
@@ -1025,7 +1025,7 @@ dependencies = [
  "itertools 0.14.0",
  "num-traits",
  "ordered-float",
- "protobuf 4.0.0-alpha.0",
+ "protobuf 4.0.0-alpha.0 (git+https://github.com/lyft/rust-protobuf.git?branch=patch-stack)",
  "sha2",
  "time",
 ]
@@ -1100,7 +1100,7 @@ dependencies = [
  "flate2",
  "log",
  "memmap2",
- "protobuf 4.0.0-alpha.0",
+ "protobuf 4.0.0-alpha.0 (git+https://github.com/lyft/rust-protobuf.git?branch=patch-stack)",
  "rstest",
  "strum",
  "tempfile",
@@ -1153,7 +1153,7 @@ dependencies = [
  "ctor",
  "log",
  "parking_lot",
- "protobuf 4.0.0-alpha.0",
+ "protobuf 4.0.0-alpha.0 (git+https://github.com/lyft/rust-protobuf.git?branch=patch-stack)",
  "tempfile",
  "time",
  "tokio",
@@ -1289,7 +1289,7 @@ dependencies = [
  "bd-macros",
  "bd-proto-util",
  "bd-workspace-hack",
- "protobuf 4.0.0-alpha.0",
+ "protobuf 4.0.0-alpha.0 (git+https://github.com/lyft/rust-protobuf.git?branch=patch-stack)",
  "sketches-rust",
 ]
 
@@ -1330,7 +1330,7 @@ dependencies = [
  "ordered-float",
  "parking_lot",
  "prometheus",
- "protobuf 4.0.0-alpha.0",
+ "protobuf 4.0.0-alpha.0 (git+https://github.com/lyft/rust-protobuf.git?branch=patch-stack)",
  "rustls-pemfile",
  "serde",
  "tempfile",
@@ -1349,7 +1349,7 @@ dependencies = [
  "async-trait",
  "bd-workspace-hack",
  "parking_lot",
- "protobuf 4.0.0-alpha.0",
+ "protobuf 4.0.0-alpha.0 (git+https://github.com/lyft/rust-protobuf.git?branch=patch-stack)",
  "rand 0.9.2",
  "time",
  "tokio",
@@ -1389,7 +1389,7 @@ dependencies = [
  "log",
  "parking_lot",
  "pretty_assertions",
- "protobuf 4.0.0-alpha.0",
+ "protobuf 4.0.0-alpha.0 (git+https://github.com/lyft/rust-protobuf.git?branch=patch-stack)",
  "regex",
  "serde",
  "sha2",
@@ -1428,7 +1428,7 @@ dependencies = [
  "memchr",
  "miniz_oxide",
  "once_cell",
- "protobuf 4.0.0-alpha.0",
+ "protobuf 4.0.0-alpha.0 (git+https://github.com/bitdriftlabs/rust-protobuf.git?branch=patch-stack)",
  "quote",
  "regex",
  "regex-automata",
@@ -2232,7 +2232,7 @@ dependencies = [
  "ctor",
  "libfuzzer-sys",
  "log",
- "protobuf 4.0.0-alpha.0",
+ "protobuf 4.0.0-alpha.0 (git+https://github.com/lyft/rust-protobuf.git?branch=patch-stack)",
  "tempfile",
  "time",
  "tokio",
@@ -3429,18 +3429,29 @@ source = "git+https://github.com/bitdriftlabs/rust-protobuf.git?branch=patch-sta
 dependencies = [
  "bytes",
  "once_cell",
- "protobuf-support 4.0.0-alpha.0",
+ "protobuf-support 4.0.0-alpha.0 (git+https://github.com/bitdriftlabs/rust-protobuf.git?branch=patch-stack)",
+ "thiserror 1.0.69",
+]
+
+[[package]]
+name = "protobuf"
+version = "4.0.0-alpha.0"
+source = "git+https://github.com/lyft/rust-protobuf.git?branch=patch-stack#4d5c5822ad96089057c438616a943aadf6f613ac"
+dependencies = [
+ "bytes",
+ "once_cell",
+ "protobuf-support 4.0.0-alpha.0 (git+https://github.com/lyft/rust-protobuf.git?branch=patch-stack)",
  "thiserror 1.0.69",
 ]
 
 [[package]]
 name = "protobuf-codegen"
 version = "4.0.0-alpha.0"
-source = "git+https://github.com/bitdriftlabs/rust-protobuf.git?branch=patch-stack#4d5c5822ad96089057c438616a943aadf6f613ac"
+source = "git+https://github.com/lyft/rust-protobuf.git?branch=patch-stack#4d5c5822ad96089057c438616a943aadf6f613ac"
 dependencies = [
  "anyhow",
  "once_cell",
- "protobuf 4.0.0-alpha.0",
+ "protobuf 4.0.0-alpha.0 (git+https://github.com/lyft/rust-protobuf.git?branch=patch-stack)",
  "protobuf-parse",
  "regex",
  "tempfile",
@@ -3450,13 +3461,13 @@ dependencies = [
 [[package]]
 name = "protobuf-parse"
 version = "4.0.0-alpha.0"
-source = "git+https://github.com/bitdriftlabs/rust-protobuf.git?branch=patch-stack#4d5c5822ad96089057c438616a943aadf6f613ac"
+source = "git+https://github.com/lyft/rust-protobuf.git?branch=patch-stack#4d5c5822ad96089057c438616a943aadf6f613ac"
 dependencies = [
  "anyhow",
  "indexmap",
  "log",
- "protobuf 4.0.0-alpha.0",
- "protobuf-support 4.0.0-alpha.0",
+ "protobuf 4.0.0-alpha.0 (git+https://github.com/lyft/rust-protobuf.git?branch=patch-stack)",
+ "protobuf-support 4.0.0-alpha.0 (git+https://github.com/lyft/rust-protobuf.git?branch=patch-stack)",
  "tempfile",
  "thiserror 1.0.69",
  "which",
@@ -3475,6 +3486,14 @@ dependencies = [
 name = "protobuf-support"
 version = "4.0.0-alpha.0"
 source = "git+https://github.com/bitdriftlabs/rust-protobuf.git?branch=patch-stack#4d5c5822ad96089057c438616a943aadf6f613ac"
+dependencies = [
+ "thiserror 1.0.69",
+]
+
+[[package]]
+name = "protobuf-support"
+version = "4.0.0-alpha.0"
+source = "git+https://github.com/lyft/rust-protobuf.git?branch=patch-stack#4d5c5822ad96089057c438616a943aadf6f613ac"
 dependencies = [
  "thiserror 1.0.69",
 ]
@@ -4188,7 +4207,7 @@ dependencies = [
 [[package]]
 name = "sketches-rust"
 version = "0.2.2"
-source = "git+https://github.com/mattklein123/sketches-rust.git?branch=patch-stack#654de9475d364e7d97f8615de5b7c5368ccd26a7"
+source = "git+https://github.com/lyft/sketches-rust.git?branch=patch-stack#654de9475d364e7d97f8615de5b7c5368ccd26a7"
 dependencies = [
  "thiserror 1.0.69",
 ]
@@ -4284,7 +4303,7 @@ dependencies = [
  "bd-workflows",
  "bd-workspace-hack",
  "log",
- "protobuf 4.0.0-alpha.0",
+ "protobuf 4.0.0-alpha.0 (git+https://github.com/lyft/rust-protobuf.git?branch=patch-stack)",
  "rand 0.9.2",
  "sha2",
  "tempfile",
